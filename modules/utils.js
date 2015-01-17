@@ -1,5 +1,6 @@
 angular.module('ui.utils',  [
   'ui.event',
+  'ui.eventBus',
   'ui.format',
   'ui.highlight',
   'ui.include',
